@@ -26,9 +26,9 @@ http://localhost:3000/
 
 # Inspired by
 
-https://code.hmil.fr/2018/03/TypeScript-project-structure/
-https://github.com/course-zero/getting-started-with-typescript/tree/master/module-system
-https://medium.com/jspoint/typescript-module-system-5022cac310f6
+1. https://code.hmil.fr/2018/03/TypeScript-project-structure/
+2. https://github.com/course-zero/getting-started-with-typescript/tree/master/module-system
+3. https://medium.com/jspoint/typescript-module-system-5022cac310f6
 
 # Last Modified
-05 February 2021
+08 February 2021
