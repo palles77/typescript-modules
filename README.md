@@ -3,9 +3,9 @@ A simple example of typescript code division into modules.
 
 # Structure
 
-1. `packages\tsuto-api` - main package,
-2. `packages\tsuto-server` - package consuming tsuto-api
-3. `packages\tsuto-web-client` - package consuming tsuto-api
+1. `packages\tstuto-api` - main package,
+2. `packages\tstuto-server` - package consuming tsuto-api
+3. `packages\tstuto-web-client` - package consuming tsuto-api
 
 # How to compile
 
