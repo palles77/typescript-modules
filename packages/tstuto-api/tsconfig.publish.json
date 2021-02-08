@@ -1,0 +1,11 @@
+{
+    "files": [
+        "./src/api.ts"
+    ],
+    "compilerOptions": {
+        "target": "ES2018",
+        "module": "CommonJS",
+        "outDir": "./dist",
+        "declaration": true
+    }
+}
